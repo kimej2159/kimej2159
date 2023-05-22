@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="https://www.naver.com" target="_blank"><img src="https://img.shields.io/badge/네이버-#FF0000?style=flat-square&logo=네이버&logoColor=white"/></a>
 <!--
 **kimej2159/kimej2159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
