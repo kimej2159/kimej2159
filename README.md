@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a href="https://brash-ease-7ed.notion.site/edb5cccc6a38481e8f9347853a1ab5ad" target="_blank"><img src="https://img.shields.io/badge/blogger-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <!--
 **kimej2159/kimej2159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
