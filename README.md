@@ -1,7 +1,4 @@
-### Hi there 👋
-
-![header](https://capsule-render.vercel.app/api?type=${waving}&color=auto&height=${200}&section=header&text=${안녕하세요}&fontSize=${50}&animation=${twinkling})
-
+### 안녕하세요 <br> 멋쟁이 개발자가 되고싶은 김은지 입니다
 
 <a href="https://brash-ease-7ed.notion.site/edb5cccc6a38481e8f9347853a1ab5ad" target="_blank"><img src="https://img.shields.io/badge/portfolio-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <a href="mailto:kimej2159@naver.com" target="_blank"><img src="https://img.shields.io/badge/email-03?style=flat-square&logo=Naver&logoColor=white"/></a>
