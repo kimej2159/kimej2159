@@ -1,4 +1,4 @@
-### <h2> 안녕하세요 :)  <br> 멋쟁이 개발자가 되고싶은 김은지 입니다</h2>
+### <h2> 안녕하세요 :)  <br> 멋쟁이 개발자가 되고 싶은 김은지 입니다</h2>
 
 <h2> 🛠 Tech Stacks </h2>
 <ul>
@@ -23,7 +23,12 @@
 <h2> 💻 Portfolio Notion </h2>
     <span><a href="https://brash-ease-7ed.notion.site/edb5cccc6a38481e8f9347853a1ab5ad" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
         
-
+<h2> 📝 Completion of education </h2>
+    <ul>
+        <li> 조선대학교 공과대학 졸업(2018.02~2022.02) </li>
+        <li> 한울직업전문학교 - 오픈소스기반의 지능형 IoT 융합 SW개발 이수 (2022.11.06~2023.05.16) </li>
+    </ul>
+    
 <h2> 🎈 Contact </h2>
 <a href="mailto:kimej2159@naver.com" target="_blank"><img src="https://img.shields.io/badge/email-03?style=flat-square&logo=Naver&logoColor=white"/></a>
 <a href="mailto:k5762159@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email-4285F4?style=flat-square&logo=Google&logoColor=white"/></a>
