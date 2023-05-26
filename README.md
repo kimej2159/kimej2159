@@ -21,7 +21,7 @@
 </ul>
 <br>
 <h2> 💻 Portfolio Notion </h2>
-    <span><a href="https://brash-ease-7ed.notion.site/edb5cccc6a38481e8f9347853a1ab5ad" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=개발자 이력서&logoColor=white"/></a>
+    <span><a href="https://brash-ease-7ed.notion.site/edb5cccc6a38481e8f9347853a1ab5ad" target="_blank"><img src="https://img.shields.io/badge/개발자이력서-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
     
 <br><h2> 📝 Completion of education </h2>
     <ul>
