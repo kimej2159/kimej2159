@@ -11,7 +11,7 @@
 
 <ul>
     <li> Database : 
-        <span><a href="" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+        <span><a href="" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Oracle&logoColor=white"/></a>
 </span></li>
     
 </ul>
@@ -21,7 +21,7 @@
 </ul>
 <br>
 <h2> 💻 Portfolio Notion </h2>
-    <span><a href="https://brash-ease-7ed.notion.site/edb5cccc6a38481e8f9347853a1ab5ad" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+    <span><a href="https://brash-ease-7ed.notion.site/edb5cccc6a38481e8f9347853a1ab5ad" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=개발자 이력서&logoColor=white"/></a>
     
 <br><h2> 📝 Completion of education </h2>
     <ul>
