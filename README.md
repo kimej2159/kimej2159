@@ -5,7 +5,7 @@
     <li> Front-end :
         <span><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0ac526200358c3cd09ca0eae4bc7149282c173b5fb1de1636715f18b9ab346ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c6174266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d7768697465"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=JavaScript&amp;logoColor=white" style="max-width: 100%;"></a></span>
         <span><a href="" target="_blank"><img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white"/></a></span>
-        <span><a href="" target="blank"><img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=css3&logoColor=#1572B6"></a></span>
+        <span><a href="" target="blank"><img src="https://img.shields.io/badge/css3-E34F26?style=flat-square&logo=css3&logoColor=#1572B6"></a></span>
     </li>
 </ul>
 
