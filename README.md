@@ -7,7 +7,6 @@
         <span><a href="" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white"/></a></span>
         <span><a href="" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/css3-%231572B6??style=flat-square&logo=css3&logoColor=white"></a></span>
 
-    </li>
 </ul>
 
 <ul>
